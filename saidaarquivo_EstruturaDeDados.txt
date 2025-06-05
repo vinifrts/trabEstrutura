@@ -1,0 +1,6 @@
+arvore: 5 
+arvores: 3 
+estruturas: 3 
+java: 2 1 
+programacao: 5 1 
+programar: 2 

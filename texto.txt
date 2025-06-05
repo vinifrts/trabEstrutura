@@ -1,0 +1,5 @@
+O java é uma linguagem de programação amplamente utilizada no mercado de trabalho.
+Programar com Java permite desenvolver aplicações robustas e eficientes.
+Muitos desenvolvedores experientes utilizam estruturas de dados, como árvores binárias, listas encadeadas e tabelas hash, para organizar informações de forma otimizada.
+Entender a lógica por trás dos algoritmos é essencial para escrever código de qualidade. 
+Portanto, estudar programação, árvore, lista, tabela, código e algoritmo ajuda muito no crescimento profissional. Além disso, é muito importante que você tome muitos copos d´agua.
