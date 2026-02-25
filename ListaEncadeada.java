@@ -22,7 +22,7 @@ public class ListaEncadeada<T> {
 
     public void inserir(T novoDado) {
         No novoNo = new No(novoDado);
-        novoNo.proximo = primeiro;
+        novoNo.proximo = primeiro; // teste
         primeiro = novoNo;
     }
 
